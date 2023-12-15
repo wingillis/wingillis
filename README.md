@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome
+
+I studied neuroscience and behavior at Harvard Medical School with [Bob Datta](http://datta.hms.harvard.edu/research/behavioral-analysis/).
+
+I'm interested in the intersection between machine learning and biology.
+
+Check out [my website](https://wingillis.github.io/) for more info about me.
 
 <!--
 **wingillis/wingillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
