@@ -1,6 +1,6 @@
 ### Welcome
 
-I studied neuroscience and behavior at Harvard Medical School with [Bob Datta](http://datta.hms.harvard.edu/research/behavioral-analysis/).
+I studied neuroscience and animal behavior at Harvard Medical School with [Bob Datta](http://datta.hms.harvard.edu/research/behavioral-analysis/).
 
 I'm interested in the intersection between machine learning and biology.
 
